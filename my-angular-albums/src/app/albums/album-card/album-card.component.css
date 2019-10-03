@@ -1,0 +1,17 @@
+.card {
+  width: 18rem;
+  height: 30rem;
+  margin: 5px;
+  max-width: 100%;
+  }
+  .card-img-top {
+    height: 16rem;
+    }
+    .card-text {
+      word-wrap: break-word;
+    }
+
+    .scrollable{
+      overflow-y: auto;
+      max-height: 6.42rem;
+    }
